@@ -3,7 +3,9 @@
 
 Estudiante de Ing. Software
 estoy interesado en el desarrollo de sistema web y aplicaciones con base de datos
-- Manta- Ecuador
+--
+
+SI PUEDES IMAGINARLO, PUEDES PROGRAMARLO 
 
 ---
 
