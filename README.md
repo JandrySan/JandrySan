@@ -50,7 +50,7 @@ Sistema completo para la gestión de un restaurante que permite
 
 ---
 
-### Sistema de Venta de Boleetos para Buses
+### Sistema de Venta de Boletos para Buses
 Aplicación para la administración de viajes y venta de boletos 
 - Registro de rutas
 - Venta de boletos
