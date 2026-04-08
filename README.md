@@ -1,13 +1,18 @@
+<br><br>
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">Hola, soy Jandry Sánchez Murillo</h2>  
+<br><br>
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-#  Hola, soy Jandry Sánchez Murillo
+<p> Estudiante de Ing. Software estoy interesado en el desarrollo de sistema web <p/>
+  y aplicaciones con base de datos <p/>
 
-Estudiante de Ing. Software
-estoy interesado en el desarrollo de sistema web y aplicaciones con base de datos
---
+    
+<p></p>SI PUEDES IMAGINARLO, PUEDES PROGRAMARLO <p/>
 
-SI PUEDES IMAGINARLO, PUEDES PROGRAMARLO 
 
----
+
+
 
 ## 🛠️ Tecnologías
 - HTML
