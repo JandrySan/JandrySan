@@ -1,5 +1,5 @@
 
-#  Hola, soy Jandry Sánchez
+#  Hola, soy Jandry Sánchez Murillo
 
 Estudiante de Ing. Software
 estoy interesado en el desarrollo de sistema web y aplicaciones con base de datos
