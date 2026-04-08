@@ -1,15 +1,14 @@
-<br><br>
+
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">Hola, soy Jandry Sánchez Murillo</h2>  
-<br><br>
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p> Estudiante de Ing. Software estoy interesado en el desarrollo de sistema web <p/>
-  y aplicaciones con base de datos <p/>
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-    
-<p></p>SI PUEDES IMAGINARLO, PUEDES PROGRAMARLO <p/>
-
+<p> Estudiante de Ingeniería de Software estoy enfocado en el desarrollo de sistemas web y aplicaciones con bases de datos. 
+  Me apasiona crear soluciones que automaticen procesos y resuelvan problemas reales mediante el uso de Python, HTML, CSS y gestores
+  de datos como MySQL y MongoDB. <p/>
+ <p> Siempre en constante aprendizaje, buscando mejorar mis habilidades en desarrollo backend y frontend, estructuras de datos y arquitectura de software.</p>
+  <p>SI PUEDES IMAGINARLO, PUEDES PROGRAMARLO <p/>
 
 
 
